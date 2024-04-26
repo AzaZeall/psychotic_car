@@ -11,7 +11,7 @@ class Settings {
       ARR: 30,
       IRS: 'tap',
       IHS: 'tap',
-      IAS: true,
+      IAS: false,
       rotationSystem: 'auto',
       // Graphics
       theme: 'default',
