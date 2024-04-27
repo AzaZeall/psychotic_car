@@ -7,8 +7,8 @@ class Settings {
     this.defaultSettings = {
       language: 'en_US',
       // Tuning
-      DAS: 170,
-      ARR: 30,
+      DAS: 150,
+      ARR: 32,
       IRS: 'tap',
       IHS: 'tap',
       IAS: false,
@@ -17,7 +17,7 @@ class Settings {
       theme: 'default',
       size: 100,
       nextLength: 5,
-      skin: 'auto',
+      skin: 'tetrio',
       color: 'auto',
       colorI: 'auto',
       colorL: 'auto',
@@ -29,7 +29,7 @@ class Settings {
       outline: 'on',
       ghost: 'color',
       backgroundOpacity: 30,
-      gridStyle: 'cross',
+      gridStyle: 'dot',
       lockFlash: 'shine',
       actionText: true,
       matrixSwayScale: 0,
@@ -45,8 +45,8 @@ class Settings {
       sfxVolume: 50,
       musicVolume: 50,
       voiceVolume: 50,
-      soundbank: 'auto',
-      nextSoundbank: 'auto',
+      soundbank: 'tetrio',
+      nextSoundbank: 'off',
       voicebank: 'off',
     };
     switch (navigator.language.substr(0, 2)) {
