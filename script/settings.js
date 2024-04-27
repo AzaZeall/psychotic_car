@@ -44,7 +44,7 @@ class Settings {
       // Audio
       sfxVolume: 50,
       musicVolume: 50,
-      voiceVolume: 50,
+      voiceVolume: 0,
       soundbank: 'tetrio',
       nextSoundbank: 'off',
       voicebank: 'off',
