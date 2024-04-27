@@ -34,7 +34,7 @@ class Settings {
       actionText: true,
       matrixSwayScale: 0,
       matrixSwaySpeed: 1,
-      visualInitial: true,
+      visualInitial: false,
       particles: false,
       particleLimit: 50,
       particleSize: 1,
