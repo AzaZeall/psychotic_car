@@ -6,7 +6,7 @@
     "pieces": "standard",
     "unfavored": "standardUnfavored",
     "randomizer": "bag",
-    "rotationSystem": "srsx",
+    "rotationSystem": "srs",
     "skin": "srsx",
     "soundbank": "standard",
     "music": ["marathon", "marathon-2"],
